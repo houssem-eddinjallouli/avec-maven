@@ -11,7 +11,7 @@ stage('GIT') {
 
                git branch: 'master',
 
-               url: ' https://github.com/hwafa/timesheetproject.git'
+               url: 'https://github.com/houssem-eddinjallouli/avec-maven.git'
 
           }
 
